@@ -1,12 +1,5 @@
 node_modules/
 .next/
-.env*
-*.tsbuildinfo
-next-env.d.ts
-
-# VCP initialization exclusions
-node_modules/
-.next/
 dist/
 coverage/
 .env
